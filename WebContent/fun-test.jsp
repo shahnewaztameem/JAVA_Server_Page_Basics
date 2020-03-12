@@ -1,4 +1,4 @@
-<%@ page import=" com.javaserverpage.jsp.*" %>
+<%@ page import="com.javaserverpage.jsp.*" %>
 <html>
 	<body>
 	<!-- packageName.className.methodName -->
