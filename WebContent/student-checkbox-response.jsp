@@ -6,7 +6,7 @@
 		The student is confirmed ${ param.firstName } ${param.lastName }
 		<br><br>
 		Student's favorite languages are
-		<!-- disply list of "favoriteLanguage" -->
+		<!-- display list of "favoriteLanguage" -->
 		<ul>
 			<%
 				String[] langs = request.getParameterValues("favoriteLanguage");
