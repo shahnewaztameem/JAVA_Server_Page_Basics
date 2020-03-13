@@ -5,7 +5,7 @@
 	<body>
 		The student is confirmed ${ param.firstName } ${param.lastName }
 		<br><br>
-		Country ${param.country }
+		The student's Country ${param.country }
 	
 	</body>
 </html>
